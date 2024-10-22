@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#enbyDuck {
+    border-radius: 50px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.bemVinde {
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#head {
+    font-size: 5px;
+    color: rgb(188, 255, 255);
+}
